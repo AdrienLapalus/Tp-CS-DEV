@@ -1,0 +1,8 @@
+Avion
+Arbre
+Piscine
+Glace
+Gateau
+Chateau
+Chat 
+Chien
